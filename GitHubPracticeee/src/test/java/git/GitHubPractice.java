@@ -7,6 +7,8 @@ public class GitHubPractice {
 		//hi there!
 		//GitNew Push
 		//good morning
+		//new Push
+		//Hello there!
 
 	}
 
